@@ -13,4 +13,4 @@ Hi there 👋 Nice meeting you, I'm Gayathri!<br><br>🔭 I’m currently doing 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gayathri-ramu02/) 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!--  -->
