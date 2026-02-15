@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 Nice meeting you, I'm Gayathri!<br><br>🔭 I’m currently doing my Master's at Kingston University, London.<br>💡 Aspiring AI Engineer | Machine Learning Enthusiast | Power Apps developer | Problem Solver<br>📫 How to reach me: LinkedIn - @Gayathri Ramu<br>😄 Pronouns: She/Her<br>
+Hi there 👋 Nice meeting you, I'm Gayathri!<br><br>🔭 I’m currently doing my Master's at Kingston University, London.<br>💡 Aspiring AI Engineer | Machine Learning Enthusiast | Power Apps developer | Problem Solver<br>📫 How to reach me: LinkedIn - @Gayathri Ramu<br>
 
 
 # 💻 Tech Stack:
