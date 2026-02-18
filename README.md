@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi there 👋 Nice meeting you, I'm Gayathri!<br><br>🔭 I’m currently doing my Master's at Kingston University, London.<br>💡 Aspiring AI Engineer | Machine Learning Enthusiast | Power Apps developer | Problem Solver<br>📫 How to reach me: LinkedIn - @Gayathri Ramu<br>
+Hi there 👋 Nice meeting you, I'm Gayathri!<br><br>🔭 I’m currently doing my Master's at Kingston University, London.<br>💡 Aspiring AI Engineer | Machine Learning Enthusiast | Power Apps developer | Problem Solver<br>
 
 
 # 💻 Tech Stack:
@@ -14,5 +14,13 @@ Hi there 👋 Nice meeting you, I'm Gayathri!<br><br>🔭 I’m currently doing 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gayathri-ramu02/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2.svg?logo=google-chrome&logoColor=white)](https://large-jumper-ba3.notion.site/Gayathri-Ramu2ec92749c9b38077aba1e4edaba49b72)
 
+
+---
+### Visitor counts
+<p align="center">
+  <a href="#">
+      <img src="https://api.visitorbadge.io/api/VisitorHit?user=GayathriRamu&repo=GayathriRamu&countColor=%237B1E7A" />
+   </a>
+</p>
 
 <!--  -->
