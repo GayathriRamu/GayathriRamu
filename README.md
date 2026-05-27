@@ -11,12 +11,4 @@ Hi there 👋 Nice meeting you, I'm Gayathri!<br><br>🔭 I’m currently doing 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2.svg?logo=google-chrome&logoColor=white)](https://large-jumper-ba3.notion.site/Gayathri-Ramu2ec92749c9b38077aba1e4edaba49b72)
 
 
----
-### Visitor counts
-<p align="center">
-  <a href="#">
-      <img src="https://api.visitorbadge.io/api/VisitorHit?user=GayathriRamu&repo=GayathriRamu&countColor=%237B1E7A" />
-   </a>
-</p>
 
-<!--  -->
