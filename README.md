@@ -9,5 +9,5 @@ I'm Gayathri!<br><br>🔭 I’m currently doing my Master's at Kingston Universi
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gayathri-ramu02/) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2.svg?logo=google-chrome&logoColor=white)](https://large-jumper-ba3.notion.site/Gayathri-Ramu2ec92749c9b38077aba1e4edaba49b72)
+[![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2.svg?logo=google-chrome&logoColor=white)](https://gayathriramu.github.io/Gayathri-Ramu-Portfolio/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rgayathri.1003)
