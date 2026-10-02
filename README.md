@@ -39,6 +39,8 @@ I'm Gayathri!<br><br>🔭 I’m currently doing my Master's at Kingston Universi
 
 
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=GayathriRamu&show_icons=true&theme=default)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gayathri-ramu02/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-8A2BE2.svg?logo=google-chrome&logoColor=white)](https://gayathriramu.github.io/Gayathri-Ramu-Portfolio/)
